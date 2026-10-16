@@ -97,6 +97,15 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 10 more language builds: 中文 `wan-2-7-r2v-api-cn` · Deutsch [wan-2-7-r2v-api-de](https://github.com/ffn-o3s/wan-2-7-r2v-api-de) · Español [wan-2-7-r2v-api-es](https://github.com/j4mcxueyfsi/wan-2-7-r2v-api-es) · Français `wan-2-7-r2v-api-fr` · Relay/gateway [wan-2-7-r2v-api-gateway](https://github.com/mkk8f7hh/wan-2-7-r2v-api-gateway) · Bahasa [wan-2-7-r2v-api-id](https://github.com/mdhmu6vfch/wan-2-7-r2v-api-id) · 日本語 `wan-2-7-r2v-api-ja` · 한국어 `wan-2-7-r2v-api-ko` · Português [wan-2-7-r2v-api-pt](https://github.com/qgupf/wan-2-7-r2v-api-pt) · Русский [wan-2-7-r2v-api-ru](https://github.com/yesjbbz38yev4/wan-2-7-r2v-api-ru)
+- **Topic hubs** — every build of this model, all languages: [wan-2-7-r2v](https://github.com/topics/wan-2-7-r2v) · [wan-2-7-r2v-api](https://github.com/topics/wan-2-7-r2v-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
